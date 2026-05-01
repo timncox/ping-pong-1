@@ -1,0 +1,22 @@
+{
+  "site": {
+    "name": "Ping Pong",
+    "tagline": "Serve. Rally. Repeat.",
+    "description": "A tiny site about ping pong."
+  },
+  "pages": [
+    {
+      "slug": "/",
+      "title": "Ping Pong",
+      "content": "# Ping Pong\n\nServe. Rally. Repeat.\n\nThe table is set. The paddle is ready. All that's left is to play."
+    }
+  ],
+  "theme": {
+    "accent": "#E8003D",
+    "mode": "dark",
+    "font": "sans"
+  },
+  "schema": {
+    "type": "WebSite"
+  }
+}
