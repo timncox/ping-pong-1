@@ -1,8 +1,8 @@
 {
   "site": {
     "name": "Ping Pong",
-    "tagline": "table tennis, refined",
-    "description": "A demo site for weft's write-path testing."
+    "tagline": "Serve. Rally. Repeat.",
+    "description": "A tiny site about ping pong."
   },
   "pages": [
     {
