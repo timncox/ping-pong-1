@@ -2,7 +2,7 @@
   "site": {
     "name": "Ping Pong",
     "tagline": "table tennis, refined",
-    "description": "A tiny site about ping pong."
+    "description": "A demo site for weft's write-path testing."
   },
   "pages": [
     {
